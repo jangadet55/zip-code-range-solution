@@ -35,8 +35,6 @@ Eclipse Instructions
 
 * Set up Eclipse Preferences
     
-* Create a new project using `storage/xml-api/cmdline-sample`
-
     * Create a new Java Project or just clone this project using git options.
     
 * Run
