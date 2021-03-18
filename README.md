@@ -36,9 +36,11 @@ Eclipse Instructions
 * Set up Eclipse Preferences
     
     * Create a new Java Project or just clone this project using git options.
+    * Add Lib jar in classpath.
     
 * Run
 
     * Right-click on project
     * Run As > Java Application
+    * Also, similarly to test the test cases, Please Run as JUNIT.
     
